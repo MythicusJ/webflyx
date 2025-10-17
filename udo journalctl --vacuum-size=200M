@@ -1,0 +1,48 @@
+[33mcommit 41014caedbd579201462de3a223176dc0725e9d4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_titles[m[33m)[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 17 22:42:22 2025 +0200
+
+    G: Update titles
+
+[33mcommit d823fe087b0854010e1cfd3ed69c4995959185ba[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 26befda b58062a
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 17 22:34:58 2025 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 26befda136e79fb6135ffcb798ffd9526907ae62[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 17 22:30:47 2025 +0200
+
+    E: contents.md
+
+[33mcommit b58062ae741e87143e5de8678d8280cc01575d1b[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 17 15:18:50 2025 +0200
+
+    D: Update classics.csv
+
+[33mcommit 30bebce6a68b3afa5412f53615f85207b1f647ab[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 17 14:46:01 2025 +0200
+
+    C: add quotes
+
+[33mcommit cd0702fefd095249f273a686f50b7c1710e0c73c[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 10 11:17:47 2025 +0200
+
+    C: add quotes
+
+[33mcommit 597cb6a669628aef0deefcb4b8f4895416c29144[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Fri Oct 10 11:07:43 2025 +0200
+
+    B: add titles
+
+[33mcommit 5da7d1151fe14ebbe7d45aebaea0dd1142df0a52[m
+Author: MythicusJ <slawek@mythicus.pl>
+Date:   Thu Oct 9 14:41:40 2025 +0200
+
+    A: add contents.md
